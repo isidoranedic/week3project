@@ -11,6 +11,8 @@ This is mostly just so we can give you some initial feedback on whether your tea
 a link to the documentation for an API your team can use related to the domain.\
 
 a screenshot of using a tool to try out the API (like https://www.postman.com/Links to an external site. or https://hoppscotch.io/Links to an external site.Links to an external site.)\
+
+It is an attempt to search for recipes that contain "beef".
 ![Screen shot of trying the API](https://i.imgur.com/oIlRbYf.png)
 
 example output of running your Java code (see below).\
