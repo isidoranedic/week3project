@@ -16,7 +16,9 @@ This is mostly just so we can give you some initial feedback on whether your tea
 
 A link to the documentation for an API your team can use related to the domain.  
 
-A screenshot of using a tool to try out the API (like https://www.postman.com/Links to an external site. or https://hoppscotch.io/Links to an external site.Links to an external site.)  
+https://developer.edamam.com/edamam-docs-recipe-api    
+
+A screenshot of using a tool to try out the API (like https://www.postman.com/ or https://hoppscotch.io)  
 
 It is an attempt to search for recipes that contain "beef".
 ![Screen shot of trying the API](https://i.imgur.com/oIlRbYf.png)
