@@ -6,6 +6,12 @@ a description of the problem domain your team is tentatively wanting to focus on
 
 a brief, high-level description of what kind of application your team is thinking of developing.\
 
+Our team is thinking of developing an application that can store recipes, and let users add recipes of their own. The 
+application would allow the user to search for recipes using a specific ingredient, or by specific nutritional content (ex. protein, vitamins, etc.).
+In addition, the user would be able to add recipes to a collection, which could function like a daily meal plan and allow
+the user to see the total nutritional value of all the included recipes. Given the meal plan, our application would then be
+able to generate a shopping list based on the ingredients in each recipe.
+
 This is mostly just so we can give you some initial feedback on whether your team might want to reconsider your project direction.\
 
 a link to the documentation for an API your team can use related to the domain.\
