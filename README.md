@@ -9,7 +9,8 @@ Our team is thinking of developing an application that can store recipes, and le
 application would allow the user to search for recipes using a specific ingredient, or by specific nutritional content (ex. protein, vitamins, etc.).
 In addition, the user would be able to add recipes to a collection, which could function like a daily meal plan and allow
 the user to see the total nutritional value of all the included recipes. Given the meal plan, our application would then be
-able to generate a shopping list based on the ingredients in each recipe.
+able to generate a shopping list based on the ingredients in each recipe. In addition to this, our application can also 
+calculate out the total calories given the meal plan to help with user's health management.
 
 #### A link to the documentation for a related API.  
 
