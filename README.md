@@ -1,10 +1,9 @@
 # week3project
 
-A readme.md file which must include:  
+#### Problem domain
+The problem domain our team plans to focus on is a recipe organizer.
 
-A description of the problem domain your team is tentatively wanting to focus on in the project. (e.g., trivia, finance, real estate, etc…)  
-
-A brief, high-level description of what kind of application your team is thinking of developing.  
+#### Description of application your team is thinking of developing.  
 
 Our team is thinking of developing an application that can store recipes, and let users add recipes of their own. The 
 application would allow the user to search for recipes using a specific ingredient, or by specific nutritional content (ex. protein, vitamins, etc.).
@@ -12,21 +11,17 @@ In addition, the user would be able to add recipes to a collection, which could 
 the user to see the total nutritional value of all the included recipes. Given the meal plan, our application would then be
 able to generate a shopping list based on the ingredients in each recipe.
 
-This is mostly just so we can give you some initial feedback on whether your team might want to reconsider your project direction.  
-
-A link to the documentation for an API your team can use related to the domain.  
+#### A link to the documentation for a related API.  
 
 https://developer.edamam.com/edamam-docs-recipe-api    
 
-A screenshot of using a tool to try out the API (like https://www.postman.com/ or https://hoppscotch.io)  
+#### A screenshot of using a tool to try out the API 
 
 It is an attempt to search for recipes that contain "beef".
 ![Screen shot of trying the API](https://i.imgur.com/oIlRbYf.png)
 
-example output of running your Java code (see below).  
+An example output of running your Java code (see below).  
 
-A list of any technical problems blocking progress (if any)
-please don't hesitate to ask such questions on Piazza too of course.  
 
 Java code:  
 
